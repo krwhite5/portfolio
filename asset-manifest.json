@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eebde300.css",
+    "main.js": "/static/js/main.d40ac0ed.js",
+    "static/media/image3.jpg": "/static/media/image3.6d34b2afe9ca204b8ebe.jpg",
+    "static/media/fakeProfile.jpg": "/static/media/fakeProfile.4d318b504794a7125ff7.jpg",
+    "static/media/image2.jpg": "/static/media/image2.570745dd35ed810f6bf7.jpg",
+    "static/media/image4.jpg": "/static/media/image4.96537105ccbfd15c9bce.jpg",
+    "static/media/TCounty.png": "/static/media/TCounty.1d1dfd7442bc94d1facf.png",
+    "static/media/WordPress.png": "/static/media/WordPress.8f0a20319f9dd9c8a7dd.png",
+    "static/media/Calculator.png": "/static/media/Calculator.2f70c40ba7e4b6be674c.png",
+    "index.html": "/index.html",
+    "main.eebde300.css.map": "/static/css/main.eebde300.css.map",
+    "main.d40ac0ed.js.map": "/static/js/main.d40ac0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebde300.css",
+    "static/js/main.d40ac0ed.js"
+  ]
+}
